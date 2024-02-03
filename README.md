@@ -4,8 +4,11 @@
 
 # Tools and Technologies Used
 Python: The primary programming language used for data analysis and visualization.
+
 Jupyter Notebooks: Used for creating and sharing live code, equations, visualizations, and narrative text.
+
 Pandas, NumPy, Matplotlib, Seaborn: Python libraries for data manipulation, analysis, and visualization.
+
 Scikit-learn: Utilized for implementing the K-means clustering algorithm.
 
 # Analysis and Methodology
