@@ -1,8 +1,8 @@
-#Data-Diagnose-Insights
+# Data-Diagnose-Insights
 
 "Data Diagnose Insights" unveils strategic insights into Dr. Lal Path Labs, Prayagraj. Meticulous analysis, including K-means segmentation and Pareto analysis, reveals demographic patterns, financial dynamics, and customer retention insights.
 
-#Tools and Technologies Used
+# Tools and Technologies Used
 Python: The primary programming language used for data analysis and visualization.
 Jupyter Notebooks: Used for creating and sharing live code, equations, visualizations, and narrative text.
 Pandas, NumPy, Matplotlib, Seaborn: Python libraries for data manipulation, analysis, and visualization.
